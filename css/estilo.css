@@ -13,7 +13,13 @@
 }
 main{
     background-image: radial-gradient(white,lightblue);}
-
+.centrarImg{
+    display: flex;
+    justify-content: center;
+}
+.achicarWeb{
+    width: -webkit-fill-available;
+}
 @media only screen and (max-width: 768px){
 .centrar{
     text-align: center;
