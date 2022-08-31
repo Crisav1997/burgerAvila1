@@ -20,6 +20,9 @@ main{
 .achicarWeb{
     width: -webkit-fill-available;
 }
+.centrarTxt{
+    text-align: center;
+}
 @media only screen and (max-width: 768px){
 .centrar{
     text-align: center;
