@@ -23,6 +23,14 @@ main{
 .centrarTxt{
     text-align: center;
 }
+.padCero{
+    padding: 0px;
+}
+.padQuince{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
 @media only screen and (max-width: 768px){
 .centrar{
     text-align: center;
